@@ -30,7 +30,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+De entrada parece una web normal de reserva de viajes, pero ya el nombre nos sugiere algo más acogedor, algo que nos ha llamado la atención. El hecho de buscar anfitriones, gente con la que quedar en un destino, etc. Todo esto nos pareció en un principio una forma innovadora de realizar viajes.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
