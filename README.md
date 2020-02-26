@@ -35,7 +35,7 @@ De entrada parece una web normal de reserva de viajes, pero ya el nombre nos sug
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-(P1/persona_clara.png)
+![Método UX](P1/persona_clara.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
