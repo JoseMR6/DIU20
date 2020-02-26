@@ -43,9 +43,13 @@ Paco: Representa a un sector distinto que tiene mayores dificultades con estos m
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+
+![Método UX]("P1/Experiencia de Clara.png")
 Clara: Comprobar su funcionamiento con el público objetivo, algo muy habitual pues es hacia quien se dirige.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![Método UX]("P1/Experiencia de Paco.png")
+Muestra un caso con dificultades con el objetivo de encontrar posibles mejoras.
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
