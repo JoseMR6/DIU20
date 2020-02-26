@@ -36,6 +36,10 @@ De entrada parece una web normal de reserva de viajes, pero ya el nombre nos sug
 -----
 
 ![Método UX](P1/persona_clara.png)
+Clara: Representa al público joven que es el principal target de este tipo de aplicación.
+
+![Método UX](P1/persona_paco.png)
+Paco: Representa a un sector distinto que tiene mayores dificultades con estos medios.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
