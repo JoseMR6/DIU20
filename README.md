@@ -20,8 +20,6 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
-
 
 # Proceso de Diseño 
 
@@ -30,7 +28,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-De entrada parece una web normal de reserva de viajes, pero ya el nombre nos sugiere algo más acogedor, algo que nos ha llamado la atención. El hecho de buscar anfitriones, gente con la que quedar en un destino, etc. Todo esto nos pareció en un principio una forma innovadora de realizar viajes.
+Couchsurfing: De entrada parece una web normal de reserva de viajes, pero ya el nombre nos sugiere algo más acogedor, algo que nos ha llamado la atención. El hecho de buscar anfitriones, gente con la que quedar en un destino, etc. Todo esto nos pareció en un principio una forma innovadora de realizar viajes.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
