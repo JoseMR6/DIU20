@@ -5,7 +5,7 @@ Grupo: DIU1_JoDa.  Curso: 2019/20
 
 Proyecto: 
 
-Descripción: Cosa
+Descripción:
 
 Logotipo: 
 
