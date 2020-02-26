@@ -54,7 +54,7 @@ Paco: Muestra un caso con dificultades con el objetivo de encontrar posibles mej
 
 - Revisión de usabilidad completa: https://github.com/JoseMR6/DIU20/blob/master/P1/usabilidad_v2.pdf
 
-- Valoracion final: 83 / 100
+- Valoración final: 83 / 100
 
 Tiene muchos puntos positivos visualmente y para usuarios avanzados pero es duro con novatos por tareas iniciales de perfil necesarias.
 
