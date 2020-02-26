@@ -53,15 +53,16 @@ Paco: Muestra un caso con dificultades con el objetivo de encontrar posibles mej
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+- Revisión de usabilidad completa: https://github.com/JoseMR6/DIU20/blob/master/P1/usabilidad_v2.pdf
+
+- Valoracion final: 83 / 100
+
+Tiene muchos puntos positivos visualmente y para usuarios avanzados pero es duro con novatos por tareas iniciales de perfil necesarias.
+
 
 
 ## Paso 2. UX Design  
-
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
