@@ -44,10 +44,10 @@ Paco: Representa a un sector distinto que tiene mayores dificultades con estos m
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![Método UX](P1/Experiencia de Clara.png)
+![Método UX](P1/Experiencia%20de%20Clara.png)
 Clara: Comprobar su funcionamiento con el público objetivo, algo muy habitual pues es hacia quien se dirige.
 
-![Método UX](P1/Experiencia de Paco.png)
+![Método UX](P1/Experiencia%20de%20Paco.png)
 Paco: Muestra un caso con dificultades con el objetivo de encontrar posibles mejoras.
 
 
