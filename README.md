@@ -35,7 +35,7 @@ De entrada parece una web normal de reserva de viajes, pero ya el nombre nos sug
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+(P1/persona_clara.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
