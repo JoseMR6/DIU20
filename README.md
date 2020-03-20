@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_JoDa.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: TravelForce
 
-Descripción:
+Descripción: La web de viajes que facilita la vida los nuevos viajeros.
 
 Logotipo: 
 
