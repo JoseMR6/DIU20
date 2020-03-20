@@ -15,12 +15,6 @@ Miembros
 
 ----- 
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
@@ -48,7 +42,6 @@ Clara: Comprobar su funcionamiento con el público objetivo, algo muy habitual p
 ![Método UX](P1/Experiencia%20de%20Paco.png)
 Paco: Muestra un caso con dificultades con el objetivo de encontrar posibles mejoras.
 
-
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
@@ -59,26 +52,14 @@ Paco: Muestra un caso con dificultades con el objetivo de encontrar posibles mej
 Tiene muchos puntos positivos visualmente y para usuarios avanzados pero es duro con novatos por tareas iniciales de perfil necesarias.
 
 
-
 ## Paso 2. UX Design  
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+![Método UX](P2/malla_receptora.png)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Consistirá en una página web de viajes compartidos, mantendrá alguna de las cualidades positivas de la web que analizamos pero evitando el obvio problema que tenía con los usuarios nuevos.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
