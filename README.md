@@ -66,8 +66,15 @@ Consistirá en una página web de viajes compartidos, mantendrá alguna de las c
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+User/Task matrix
 
+![Método UX](P2/matriz.png)
+
+Hemos elegido esta técnica porque deja más claras las prioridades de las tareas, esto permite identificar más fácilmente a cual debemos dedicar más tiempo para asegurar su correcto funcionamiento.
+
+Sitemap
+
+>>> Definir "User Map" y "Task Flow" ... 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
