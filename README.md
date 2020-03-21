@@ -74,7 +74,7 @@ Hemos elegido esta técnica porque deja más claras las prioridades de las tarea
 
 Sitemap
 
->>> Definir "User Map" y "Task Flow" ... 
+![Método UX](P2/sitemap.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
