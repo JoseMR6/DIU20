@@ -8,6 +8,7 @@ Proyecto: TravelForce
 Descripción: La web de viajes que facilita la vida los nuevos viajeros.
 
 Logotipo: 
+![Método UX](P2/logotipo_v3.png)
 
 Miembros
  * :bust_in_silhouette:   Jose Melguizo Ruano     :octocat:     
