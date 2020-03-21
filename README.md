@@ -79,13 +79,31 @@ Sitemap
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
-
+  Identificarme  | acceder a la plataforma
+| ------------- | -------
+  Registrarme  | crear una cuenta en la plataforma
+| ------------- | -------
+  Completar mis datos  | completar datos de la cuenta
+| ------------- | -------
+  Buscar ofertas de viaje  | buscar un viaje entre los disponibles
+| ------------- | -------
+  Hacer reserva  | confirmar viaje
+| ------------- | -------
+  Mis viajes  | comprobar viajes pendientes
+| ------------- | -------
+  Cancelar reserva  | cancelar viaje
+| ------------- | -------
+  Datos de anfitrión  | conocer al futuro anfitrión
+| ------------- | -------
+  Recomendar anfitrión  | marcar que es un buen anfitrión
+| ------------- | -------
+  Añadir Amigo  | incluir usuario en la lista de amigos
+| ------------- | -------
+  Crear Viaje  | preparar un viaje en el que otras personas pueden acoplarse
+| ------------- | -------
+  Aceptar invitados  | indicar que estas dispuesto a acoger gente en tu casa
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
