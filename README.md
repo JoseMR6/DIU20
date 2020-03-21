@@ -5,7 +5,7 @@ Grupo: DIU1_JoDa.  Curso: 2019/20
 
 Proyecto: TravelForce
 
-Descripción: La web de viajes que facilita la vida los nuevos viajeros.
+Descripción: La web de viajes que facilita la vida a los nuevos viajeros.
 
 Logotipo: 
 
