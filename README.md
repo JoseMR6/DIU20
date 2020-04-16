@@ -155,7 +155,51 @@ La imagen creada para el logotipo ha sido adaptada usando paint, la resolución 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+Pautas útiles a seguir si es posible:
+- Los botones de acción serán más grandes que el texto estándar y entre ellos serán mas grandes los  de mayor importancia.
+- Vigilar la colocación de botones en lugares destacados.
+- Utilizar los espacios en blanco para agrupar elementos posicionando cerca aquellos relacionados.
+- Utilizar el contraste de color para marcar botones.
+- Mostrar acciones secundarias junto a opción primaria.
+- Cuadro de búsqueda claramente visible y fácilmente reconocible.
+- Hacer que los enlaces de texto se destaquen.
+- Usar iconos para acompañar a enlaces de Leer más.
+- El usuario debe tener fácil acceso a la caja de búsqueda.
+- Los filtros aplicados deben verse de manera fácil.
+- Se debe de separar bien cada posible resultado.
+- Se debe de poder re-ordenar de manera clara y sencilla.
+- Incluir una opción para aumentar los resultados.
+- Permitir que los usuarios puedan volver atrás en un paso.
+- Permitir que el usuario pueda cambiar el lugar fácilmente de forma manual.
+- Permitir realizar transiciones entre las aplicaciones para dispositivos móviles y la Web móvil sin inconvenientes.
+- Incluir el campo de búsqueda en una posición destacada.
+- Usar un método de indexación de búsqueda eficaz.
+- Permitir ver y filtrar las opiniones de los usuarios.
+- Ofrecer una utilidad clara antes de solicitar a los usuarios que se registren.
+- Hacer que la autenticación de contraseñas sea una experiencia sin inconvenientes.
+- Elaborar formularios fáciles de completar.
+- Informar los errores del formulario en tiempo real.
+- Usar el mismo vocabulario que los usuarios de su aplicación.
+- Proporcione etiquetas de texto y teclas visuales para clarificar la información visual.
+- Solicite permisos en un contexto relevante.
+
+Tipo de letra:
+Aller (Sans Serif).
+
+Colores
+Principal: Verde.
+Resaltar algunas cosas: Marrón.
+Fondo: Blanco.
+
+Iconos:
+-Home page 		https://fontawesome.com/icons/home?style=solid
+-Menu 			https://fontawesome.com/icons/bars?style=solid
+-Informacion 		https://fontawesome.com/icons/question-circle?style=regular
+-Añadir amigos		https://fontawesome.com/icons/user-plus?style=solid
+-Tarjetas		https://fontawesome.com/icons/credit-card?style=regular
+-Personas 		https://fontawesome.com/icons/user?style=solid
+-Refresh		https://fontawesome.com/icons/redo?style=solid
+-Crear viaje (coche)	https://fontawesome.com/icons/car-side?style=solid
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
@@ -165,21 +209,17 @@ La imagen creada para el logotipo ha sido adaptada usando paint, la resolución 
 
 ## Paso 4. Evaluación 
 
-
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
-
 
 >>> Descripción de las asignaciones (3 UX Case Study) y enlace a sus repositorios.
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
 
-
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
-
 
 ![Método UX](img/Survey.png). 4.c Ranking
 ----
@@ -191,7 +231,6 @@ La imagen creada para el logotipo ha sido adaptada usando paint, la resolución 
 
 ## Paso 5. Evaluación de Accesibilidad  
 
-
 ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 
@@ -199,16 +238,6 @@ La imagen creada para el logotipo ha sido adaptada usando paint, la resolución 
 
 >>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
 
-
-
 ## Conclusión / Valoración de las prácticas
 
-
 >>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
