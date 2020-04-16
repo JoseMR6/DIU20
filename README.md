@@ -186,13 +186,10 @@ Pautas útiles a seguir si es posible:
 Tipo de letra:
 Aller (Sans Serif).
 
-Colores
-
-Principal: Verde.
-
-Resaltar algunas cosas: Marrón.
-
-Fondo: Blanco.
+Colores:
+- Principal: Verde.
+- Resaltar algunas cosas: Marrón.
+- Fondo: Blanco.
 
 Iconos:
 - Home page 		https://fontawesome.com/icons/home?style=solid
