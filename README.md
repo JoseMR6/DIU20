@@ -187,19 +187,22 @@ Tipo de letra:
 Aller (Sans Serif).
 
 Colores
+
 Principal: Verde.
+
 Resaltar algunas cosas: Marrón.
+
 Fondo: Blanco.
 
 Iconos:
--Home page 		https://fontawesome.com/icons/home?style=solid
--Menu 			https://fontawesome.com/icons/bars?style=solid
--Informacion 		https://fontawesome.com/icons/question-circle?style=regular
--Añadir amigos		https://fontawesome.com/icons/user-plus?style=solid
--Tarjetas		https://fontawesome.com/icons/credit-card?style=regular
--Personas 		https://fontawesome.com/icons/user?style=solid
--Refresh		https://fontawesome.com/icons/redo?style=solid
--Crear viaje (coche)	https://fontawesome.com/icons/car-side?style=solid
+- Home page 		https://fontawesome.com/icons/home?style=solid
+- Menu 			https://fontawesome.com/icons/bars?style=solid
+- Informacion 		https://fontawesome.com/icons/question-circle?style=regular
+- Añadir amigos		https://fontawesome.com/icons/user-plus?style=solid
+- Tarjetas		https://fontawesome.com/icons/credit-card?style=regular
+- Personas 		https://fontawesome.com/icons/user?style=solid
+- Refresh		https://fontawesome.com/icons/redo?style=solid
+- Crear viaje (coche)	https://fontawesome.com/icons/car-side?style=solid
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
