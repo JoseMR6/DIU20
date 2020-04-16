@@ -145,13 +145,12 @@ Sobre todo el test de usuarios temprano  ha sido un punto de inflexión positivo
 
 Puntos negativos:
 
-Desarrolla poco el caso en torno a una de sus personas, el site map se desarrolla demasiado tarde, deberían haber hecho algo del mismo antes, podrían haber desarrollado algo los otros escenarios que propusieron
+Desarrolla poco el caso en torno a una de sus personas, el site map se desarrolla demasiado tarde, deberían haber hecho algo del mismo antes, podrían haber desarrollado algo los otros escenarios que propusieron.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+La imagen creada para el logotipo ha sido adaptada usando paint, la resolución es la necesaria para mantener la calidad de la imagen y que no se pixele, Esta imagen podría ser usada como cabecera en twiter  haciendo algunos recortes, siempre teniendo en cuenta que la cabeza es la zona principal y más importante de la imagen.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
