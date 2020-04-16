@@ -1,4 +1,4 @@
-# Practica 3
+# DIU - Practica 3, entregables
 
 ## Análisis de MuseMap
 
@@ -21,3 +21,17 @@ Sobre todo el test de usuarios temprano  ha sido un punto de inflexión positivo
 Puntos negativos:
 
 Desarrolla poco el caso en torno a una de sus personas, el site map se desarrolla demasiado tarde, deberían haber hecho algo del mismo antes, podrían haber desarrollado algo los otros escenarios que propusieron.
+
+## Análisis de MuseMap
+
+
+
+## Propuesta de elementos de diseño o patrones a usar
+
+
+
+## Historia en Video del UX Case Study
+
+
+
+## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
