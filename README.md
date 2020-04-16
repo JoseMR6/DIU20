@@ -139,7 +139,7 @@ Crítica
 
 Puntos positivos:
 
-Remarcan bien el problema al que se enfrentan y los objetivos, fue un acierto usar al usuario para evaluar la aplicación cuando estaban en los primeros bocetos y no desarrollarlos demasiados en caso de problemas serios, la priorización de funciones fue apropiada a falta de una task matrix, investigar como el público interacciona con el arte les ayudo en el proceso de identificar problemas y objetivos.
+Remarcan bien el problema al que se enfrentan y los objetivos, fue un acierto usar al usuario para evaluar la aplicación cuando estaban en los primeros bocetos y no desarrollarlos demasiados en caso de problemas serios, la priorización de funciones fue apropiada a falta de una task matrix, investigar como el público interacciona con el arte les ayudó en el proceso de identificar problemas y objetivos.
 
 Sobre todo el test de usuarios temprano  ha sido un punto de inflexión positivo pues permitió cambiar el rumbo del diseño a tiempo en lugar de desarrollar demasiado una propuesta que no atraería a los usuarios para luego tener que descartarla.
 
