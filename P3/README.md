@@ -22,13 +22,53 @@ Puntos negativos:
 
 Desarrolla poco el caso en torno a una de sus personas, el site map se desarrolla demasiado tarde, deberían haber hecho algo del mismo antes, podrían haber desarrollado algo los otros escenarios que propusieron.
 
-## Análisis de MuseMap
-
-
-
 ## Propuesta de elementos de diseño o patrones a usar
 
+Pautas útiles a seguir si es posible:
+- Los botones de acción serán más grandes que el texto estándar y entre ellos serán mas grandes los  de mayor importancia.
+- Vigilar la colocación de botones en lugares destacados.
+- Utilizar los espacios en blanco para agrupar elementos posicionando cerca aquellos relacionados.
+- Utilizar el contraste de color para marcar botones.
+- Mostrar acciones secundarias junto a opción primaria.
+- Cuadro de búsqueda claramente visible y fácilmente reconocible.
+- Hacer que los enlaces de texto se destaquen.
+- Usar iconos para acompañar a enlaces de Leer más.
+- El usuario debe tener fácil acceso a la caja de búsqueda.
+- Los filtros aplicados deben verse de manera fácil.
+- Se debe de separar bien cada posible resultado.
+- Se debe de poder re-ordenar de manera clara y sencilla.
+- Incluir una opción para aumentar los resultados.
+- Permitir que los usuarios puedan volver atrás en un paso.
+- Permitir que el usuario pueda cambiar el lugar fácilmente de forma manual.
+- Permitir realizar transiciones entre las aplicaciones para dispositivos móviles y la Web móvil sin inconvenientes.
+- Incluir el campo de búsqueda en una posición destacada.
+- Usar un método de indexación de búsqueda eficaz.
+- Permitir ver y filtrar las opiniones de los usuarios.
+- Ofrecer una utilidad clara antes de solicitar a los usuarios que se registren.
+- Hacer que la autenticación de contraseñas sea una experiencia sin inconvenientes.
+- Elaborar formularios fáciles de completar.
+- Informar los errores del formulario en tiempo real.
+- Usar el mismo vocabulario que los usuarios de su aplicación.
+- Proporcione etiquetas de texto y teclas visuales para clarificar la información visual.
+- Solicite permisos en un contexto relevante.
 
+Tipo de letra:
+Aller (Sans Serif).
+
+Colores:
+- Principal: Verde.
+- Resaltar algunas cosas: Marrón.
+- Fondo: Blanco.
+
+Iconos:
+- Home page 		https://fontawesome.com/icons/home?style=solid
+- Menu 			https://fontawesome.com/icons/bars?style=solid
+- Informacion 		https://fontawesome.com/icons/question-circle?style=regular
+- Añadir amigos		https://fontawesome.com/icons/user-plus?style=solid
+- Tarjetas		https://fontawesome.com/icons/credit-card?style=regular
+- Personas 		https://fontawesome.com/icons/user?style=solid
+- Refresh		https://fontawesome.com/icons/redo?style=solid
+- Crear viaje (coche)	https://fontawesome.com/icons/car-side?style=solid
 
 ## Historia en Video del UX Case Study
 
