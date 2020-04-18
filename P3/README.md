@@ -75,3 +75,5 @@ Iconos:
 https://youtu.be/c8_gk2HjHIY
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+Tras este tiempo de desarrollo del proyecto hasta ahora podemos pensar como problemas el hecho de no haber podido hacer una investigación de los usuarios más avanzada como hicieron los desarrolladores de MuseMap con entrevistas y observando su comportamiento, también habría estado bien afinar más el video de presentación aunque, modestia aparte, ha quedado magnífico.
