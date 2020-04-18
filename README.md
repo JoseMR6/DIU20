@@ -204,7 +204,7 @@ Iconos:
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto de forma de video de 90 segundos aprox.
+https://youtu.be/c8_gk2HjHIY
 
 
 ## Paso 4. Evaluación 
