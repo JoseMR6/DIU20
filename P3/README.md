@@ -72,6 +72,6 @@ Iconos:
 
 ## Historia en Video del UX Case Study
 
-
+https://youtu.be/c8_gk2HjHIY
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
