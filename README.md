@@ -17,6 +17,8 @@ Miembros
 
 ----- 
 
+(Aclaración: cuando se dice usuarios novatos o avanzados no se hace referencia a sus conocimientos sobre informática sino a su tiempo de uso de la página y como de familiaizados estan con la página en particular.)
+
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
