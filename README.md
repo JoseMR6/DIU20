@@ -214,9 +214,26 @@ https://youtu.be/c8_gk2HjHIY
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a sus repositorios.
+# Caso 1
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
+Grupo DIU1.LEJIA, compuesto por Luis Escobar Reche y Jose Armando Albarado Mamani, forman parte del conjunto encargado del Tema "Experiencia de compartir viaje".
+
+Enlace a github:
+https://github.com/luiser1996/DIU20
+
+Enlace a la hoja de evaluación:
+https://github.com/JoseMR6/DIU20/blob/master/P4/DIU1.LEJIA_review.xlsx
+
+Puntos fuertes:
+* Es muy completo.
+* El review de usabilidad está bien comentado.
+* El diseño de los bocetos es muy bonito y entendible.
+
+Puntos débiles:
+* Descripciones y comentarios demasiado largos (se especificaban originalmente un rango de caracteres en cada sección).
+* No se completa el readme principal.
+* Tampoco se respeta la duración máxima del video.
+
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
