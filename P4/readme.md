@@ -23,7 +23,7 @@ Puntos débiles:
 
 ## Caso 2
 
-Grupo DIU2.Mango, compuesto por Jose Luis Gallego Peña , forma parte del conjunto encargado del Tema "Experiencia de compartir alojamiento".
+Grupo DIU2.Mango, compuesto por Jose Luis Gallego Peña, forma parte del conjunto encargado del Tema "Experiencia de compartir alojamiento".
 
 Enlace a github:
 https://github.com/Dunspa/DIU20
