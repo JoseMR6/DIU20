@@ -74,3 +74,10 @@ Clara, en el caso 3, se encuentra ante la realización del pago de la actividad 
 
 ## Conclusiones
 Se puede ver que ha habido mucha confusión en la practica 3 pues ninguno coincide completamente con el formato de la misma, sobre todo en el readme principal nadie lo ha adaptado, esto probablemente se debe a que se han cambiado las practicas que estaban planeadas en mitad del semestre. Los bocetos eran todos muy buenos, quedan mejor hechos en el ordenador.
+
+En general todo lo entregado ha estado bien, la principal diferencia de puntos se basa en las secciones faltantes, el resto de puntos perdidos ha sido por detalles como no respetar límites de caracteres y duracines.
+
+Ranking:
+1. DIU1.LEJIA 84.
+2. DIU3.JoinsTheBattle 83.
+3. DIU2.Mango 77.
