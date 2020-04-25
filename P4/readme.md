@@ -65,11 +65,11 @@ Puntos débiles:
 
 ## User Testing
 
-	Paco en el caso 1 si quisiera ver sus reservas, por ejemplo, al estar el menú al final de la página, si hay más información de la que cabe en el largo del móvil y hay que desplazar la ventana para verlo, no sería capaz de ver el menú y no podría utilizarlo.
+Paco en el caso 1 si quisiera ver sus reservas, por ejemplo, al estar el menú al final de la página, si hay más información de la que cabe en el largo del móvil y hay que desplazar la ventana para verlo, no sería capaz de ver el menú y no podría utilizarlo.
 
-	Si Paco, en el caso 2, después de haberse registrado crea una publicación de habitación y no hace nada más tendrá el perfil en privado que parece que es como está por defecto y los usuarios al visitar la habitación no podrían ver su perfil y no creo que vayan a optar por esa elección. Aunque es cierto que lo quisiese así, lo normal de Paco es no fijarse en esos detallitos y estaría bien que recibiera una notificación o algo.
+Si Paco, en el caso 2, después de haberse registrado crea una publicación de habitación y no hace nada más tendrá el perfil en privado que parece que es como está por defecto y los usuarios al visitar la habitación no podrían ver su perfil y no creo que vayan a optar por esa elección. Aunque es cierto que lo quisiese así, lo normal de Paco es no fijarse en esos detallitos y estaría bien que recibiera una notificación o algo.
 
-	Clara, en el caso 3, se encuentra ante la realización del pago de la actividad pero en ese momento se decanta por la otra actividad que previamente había visto pero no había seleccionado por si encontraba una mejor y quiere volver hacia atrás en la página pero no hay botón dentro de la página y ya está en el método de pago por lo cual no quiere usar el botón del navegador, tendría que volver a buscar por tanto las actividades desde el principio.
+Clara, en el caso 3, se encuentra ante la realización del pago de la actividad pero en ese momento se decanta por la otra actividad que previamente había visto pero no había seleccionado por si encontraba una mejor y quiere volver hacia atrás en la página pero no hay botón dentro de la página y ya está en el método de pago por lo cual no quiere usar el botón del navegador, tendría que volver a buscar por tanto las actividades desde el principio.
 
 
 ## Conclusiones
