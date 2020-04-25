@@ -221,31 +221,43 @@ Grupo DIU1.LEJIA, compuesto por Luis Escobar Reche y Jose Armando Albarado Maman
 Enlace a github:
 https://github.com/luiser1996/DIU20
 
-Enlace a la hoja de evaluación:
-https://github.com/JoseMR6/DIU20/blob/master/P4/DIU1.LEJIA_review.xlsx
 
-Puntos fuertes:
-* Es muy completo.
-* El review de usabilidad está bien comentado.
-* El diseño de los bocetos es muy bonito y entendible.
+Caso 2
 
-Puntos débiles:
-* Descripciones y comentarios demasiado largos (se especificaban originalmente un rango de caracteres en cada sección).
-* No se completa el readme principal.
-* Tampoco se respeta la duración máxima del video.
+Grupo DIU2.Mango, compuesto por Jose Luis Gallego Peña, forma parte del conjunto encargado del Tema "Experiencia de compartir alojamiento".
+
+Enlace a github:
+https://github.com/Dunspa/DIU20
+
+
+Caso 3
+
+Grupo DIU3.JoinsTheBattle, compuesto por Alessandro Rinaldi Gómez  y Germán Castilla López, forman parte del conjunto encargado del Tema "Experiencia de compartir ocio". 
+
+Enlace a github:
+https://github.com/ralesdi/DIU20
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+Paco en el caso 1 si quisiera ver sus reservas, por ejemplo, al estar el menú al final de la página, si hay más información de la que cabe en el largo del móvil y hay que desplazar la ventana para verlo, no sería capaz de ver el menú y no podría utilizarlo.
+
+Si Paco, en el caso 2, después de haberse registrado crea una publicación de habitación y no hace nada más tendrá el perfil en privado que parece que es como está por defecto y los usuarios al visitar la habitación no podrían ver su perfil y no creo que vayan a optar por esa elección. Aunque es cierto que lo quisiese así, lo normal de Paco es no fijarse en esos detallitos y estaría bien que recibiera una notificación o algo.
+
+Clara, en el caso 3, se encuentra ante la realización del pago de la actividad pero en ese momento se decanta por la otra actividad que previamente había visto pero no había seleccionado por si encontraba una mejor y quiere volver hacia atrás en la página pero no hay botón dentro de la página y ya está en el método de pago por lo cual no quiere usar el botón del navegador, tendría que volver a buscar por tanto las actividades desde el principio.
 
 ![Método UX](img/Survey.png). 4.c Ranking
 ----
 
->>> Concluya con un ranking de los casos evaluados
+Se puede ver que ha habido mucha confusión en la practica 3 pues ninguno coincide completamente con el formato de la misma, sobre todo en el readme principal nadie lo ha adaptado, esto probablemente se debe a que se han cambiado las practicas que estaban planeadas en mitad del semestre. Los bocetos eran todos muy buenos, quedan mejor hechos en el ordenador.
 
->>> Valoración personal
+En general todo lo entregado ha estado bien, la principal diferencia de puntos se basa en las secciones faltantes, el resto de puntos perdidos ha sido por detalles como no respetar límites de caracteres y duracines.
+
+Ranking:
+1. DIU1.LEJIA 84.
+2. DIU3.JoinsTheBattle 83.
+3. DIU2.Mango 77.
 
 
 ## Paso 5. Evaluación de Accesibilidad  
