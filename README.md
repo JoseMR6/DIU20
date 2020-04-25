@@ -214,7 +214,7 @@ https://youtu.be/c8_gk2HjHIY
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
-# Caso 1
+Caso 1:
 
 Grupo DIU1.LEJIA, compuesto por Luis Escobar Reche y Jose Armando Albarado Mamani, forman parte del conjunto encargado del Tema "Experiencia de compartir viaje".
 
