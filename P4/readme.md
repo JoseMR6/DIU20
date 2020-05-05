@@ -13,11 +13,11 @@ https://github.com/JoseMR6/DIU20/blob/master/P4/DIU1.LEJIA_review.xlsx
 Puntos fuertes:
 * Es muy completo.
 * El review de usabilidad está bien comentado.
-* El diseño de los bocetos es muy bonito y entendible.
+* El diseño de los bocetos es muy atractivo visualmente debido a que sigue patrones de orden y localización claros lo que además lo hace muy entendible, es fácil discernir los elementos que forman cada ventana y su colocación.
 
 Puntos débiles:
 * Descripciones y comentarios demasiado largos (se especificaban originalmente un rango de caracteres en cada sección).
-* No se completa el readme principal.
+* Enlace a bocetos en readme principal no funciona bien.
 * Tampoco se respeta la duración máxima del video.
 
 
@@ -37,9 +37,9 @@ Puntos fuertes:
 * Site map, labelling y bocetos muy trabajados.
 
 Puntos débiles:
-* No hay descripción inicial el proyecto ni nombre.
+* El primer journey map no intenta mostrar ningún problema de diseño.
 * No se respeta el límite de caracteres en ninguna sección, demasiado texto.
-* La falta de la práctica 3.
+* Me hubiese gustado ver un logotipo que muestre el carácter de la propuesta.
 
 
 ## Caso 3
@@ -53,13 +53,13 @@ Enlace a la hoja de evaluación:
 https://github.com/JoseMR6/DIU20/blob/master/P4/DIU3.JoinsTheBattle_review.xlsx
 
 Puntos fuertes:
-* Usability review muy bien comentado.
-* La guía de estilos es muy completa.
-* Los bocetos están muy bien hechos y explicados.
+* Usability review muy bien comentado, todos las opciones tienen alguna explicación.
+* La guía de estilos es muy completa, explican cada elección que hacen y por que la hacen.
+* Los bocetos están muy bien hechos y explicados, hay bocetos de cada ventana y muestran claramente sus componentes y la situación de estos.
 
 Puntos débiles:
-* Falta el video de presentación.
-* Falta completar tanto el readme principal como crear el readme de la carpeta P3.
+* El vídeo de representación es algo largo.
+* El vídeo de representación no es accesible en el readme principal.
 * Falta completar la descripción y el logotipo en el readme principal.
 
 
