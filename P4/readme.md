@@ -73,11 +73,11 @@ Clara, en el caso 3, se encuentra ante la realización del pago de la actividad 
 
 
 ## Conclusiones
-Se puede ver que ha habido mucha confusión en la practica 3 pues ninguno coincide completamente con el formato de la misma, sobre todo en el readme principal nadie lo ha adaptado, esto probablemente se debe a que se han cambiado las practicas que estaban planeadas en mitad del semestre. Los bocetos eran todos muy buenos, quedan mejor hechos en el ordenador.
+Por alguna razon casi ninguno respetaba los límites de caracteres y de duracion del video, no es un problema demasiado grave siguen siendo trabajos excelentes, pero ha sido un poco molesto ya que nosotros nos hemos limitado mucho y perdido algo de tiempo para hacer encajar todo en estos límites, igual es que somos los únicos idiotas que le han dado importancia a esto. Los bocetos eran todos muy buenos, quedan mejor hechos en el ordenador.
 
-En general todo lo entregado ha estado bien, la principal diferencia de puntos se basa en las secciones faltantes, el resto de puntos perdidos ha sido por detalles como no respetar límites de caracteres y duracines.
+En general todo lo entregado ha estado bien, las diferencias de nota se deben a acumulaciones de pequeños detalles.
 
 Ranking:
-1. DIU1.LEJIA 84.
-2. DIU3.JoinsTheBattle 83.
-3. DIU2.Mango 77.
+1. DIU2.Mango 93.
+2. DIU1.LEJIA 87.
+3. DIU3.JoinsTheBattle 87.
